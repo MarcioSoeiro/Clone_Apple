@@ -1,0 +1,6 @@
+* {
+    margin: 0;
+    padding: 0;
+    /*para contar o tamanho da borda juntamente com o tamanho do objeto*/
+    box-sizing: border-box;
+}
