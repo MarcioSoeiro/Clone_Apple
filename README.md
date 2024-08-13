@@ -1,7 +1,4 @@
 Este repositório contém um CLONE do site da Apple.
-![print da homepage contendo a barra de navegação e o início da main] (https://imgur.com/a/R1MyTaP)
-
-<img src="[https://exemplo.com/logo.png](https://imgur.com/a/R1MyTaP)" alt="print da homepage contendo a barra de navegação e o início da main">
 
 Ele foi desenvolvido à partir do vídeo( Youtube ) produzido pela desenvolvedora Fendnada Kipper.
 
