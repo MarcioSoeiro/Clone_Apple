@@ -155,3 +155,15 @@ main .iPhone-section .text-wrapper {
     align-items: center;
     margin-top: 50px;
 }
+
+table{
+    
+    background-color:red;
+    
+}
+/*
+main .spirited-section > div {
+    left: 50%;
+    transform: translateX(-50%);
+}
+*/
