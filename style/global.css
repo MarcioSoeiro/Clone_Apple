@@ -155,15 +155,35 @@ main .iPhone-section .text-wrapper {
     align-items: center;
     margin-top: 50px;
 }
-
-table{
-    
-    background-color:red;
-    
+#iPhone14 {
+    position: absolute;
+    font-size: 30px;
+    top: 60px;
+    left: 320px;
+    color: var(--title-primary-color);
 }
-/*
-main .spirited-section > div {
-    left: 50%;
-    transform: translateX(-50%);
+#text-iPhone14 p{  
+    position: absolute;
+    top: 100px;
+    left: 370px;
+    color: var(--title-primary-color);
+    font-weight:lighter;
 }
-*/
+#text-iPhone14 a{  
+    position: absolute;
+    top: 130px;
+    left: 355px;
+    font-size: 13px;
+}
+#text-iPhone14 a + a{  
+    position: absolute;
+    top: 130px;
+    left: 435px;
+    font-size: 13px;
+}
+#iPad {
+    position: absolute;
+    font-size: 30px;
+    left: 75%;
+    color: orange;
+}
