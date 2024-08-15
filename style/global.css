@@ -186,40 +186,40 @@ main .iPhone-section .text-wrapper {
     position: absolute;
     font-size: 30px;
     top: 50px;
-    left: 980px;
+    left: 1090px;
 }
 #text-iPad p {
     position: absolute;
     top: 90px;
-    left: 910px;
+    left: 1020px;
 }
 #text-iPad a {
     position: absolute;
     top: 120px;
-    left: 950px;
+    left: 1055px;
     font-size: 13px;
 }
 #text-iPad a + a {
     position: absolute;
     top: 120px;
-    left: 1030px;
+    left: 1140px;
     font-size: 13px;
 }
 #LogoAirPods {
     position: absolute;
-    top: 580px;
+    top: 630px;
     left: 320px;
 }
 #AirPods {
     position: absolute;
     font-size: 40px;
-    top: 630px;
+    top: 680px;
     left: 265px;
     color: var(--bg-primary);
 }
 #text-AirPods p{  
     position: absolute;
-    top: 680px;
+    top: 730px;
     left: 275px;
     color: var(--bg-primary);
     font-weight:lighter;
@@ -227,29 +227,28 @@ main .iPhone-section .text-wrapper {
 }
 #text-AirPods a{  
     position: absolute;
-    top: 710px;
+    top: 760px;
     left: 310px;
     font-size: 20px;
 }
 #LogoWatch {
     position: absolute;
-    top: 580px;
-    left: 920px;
-    border: red;
+    top: 640px;
+    left: 1050px;
 }
 #Watch {
     position: absolute;
     font-size: 30px;
-    top: 585px;
-    left: 955px;
+    top: 645px;
+    left: 1085px;
     color: var(--title-primary-color);
     font-weight:bolder;
     letter-spacing: 2px;
 }
 #text-Watch span {
     position: absolute;
-    top: 620px;
-    left: 963px;
+    top: 680px;
+    left: 1093px;
     color: var(--serie8);
     text-transform: uppercase;
     font-size: 15px;
@@ -258,22 +257,93 @@ main .iPhone-section .text-wrapper {
 }
 #text-Watch p {
     position: absolute;
-    top: 645px;
-    left: 885px;
+    top: 705px;
+    left: 1020px;
     color: var(--title-primary-color);
     font-size: 23px;
-
 }
     #text-Watch a {
     position: absolute;
-    top: 680px;
-    left: 908px;
+    top: 740px;
+    left: 1040px;
     font-size: 19px;
     
 }
 #text-Watch a + a {
     position: absolute;
-    top: 680px;
-    left: 1030px;
+    top: 740px;
+    left: 1160px;
+    font-size: 19px;
+}
+#LogoUltra {
+    position: absolute;
+    top: 1230px;
+    left: 320px;
+}
+#ultra {
+    position: absolute;
+    font-size: 30px;
+    top: 1235px;
+    left: 353px;
+    font-weight:bolder;
+    text-transform: uppercase;
+}
+#text-Ultra p {
+    position: absolute;
+    top: 1273px;
+    left: 375px;
+    color: orange;
+    font-size: 15px;
+font-weight: bolder;
+}
+#text-Ultra p + p {
+    position: absolute;
+    top: 1300px;
+    left: 320px;
+    color: var(--bg-primary);
+    font-size: 20px;
+font-weight:lighter;
+}
+#text-Ultra a {
+    position: absolute;
+    top: 1340px;
+    left: 318px;
+    font-size: 19px;
+}
+#text-Ultra a + a {
+    position: absolute;
+    top: 1340px;
+    left: 425px;
+    font-size: 19px;
+}
+#LogoCard {
+    position: absolute;
+    top: 1230px;
+    left: 1057px;
+}
+#card {
+    position: absolute;
+    font-size: 40px;
+    top: 1230px;
+    left: 1088px;
+    font-weight:bolder;
+}
+#text-Card p {
+    position: absolute;
+    top: 1280px;
+    left: 969px;
+    font-size: 23px;
+font-weight:lighter;
+}
+#text-Card a {
+    position: absolute;
+    top: 1340px;
+    left: 1000px;
+    font-size: 19px;
+}
+#text-Card a + a {
+    position: absolute;
+    top: 1340px;
+    left: 1130px;
     font-size: 19px;
 }
