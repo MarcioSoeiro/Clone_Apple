@@ -204,3 +204,61 @@ main .iPhone-section .text-wrapper {
     left: 1030px;
     font-size: 13px;
 }
+#LogoAirPods {
+    position: absolute;
+    top: 580px;
+    left: 320px;
+}
+#AirPods {
+    position: absolute;
+    font-size: 40px;
+    top: 630px;
+    left: 265px;
+    color: var(--bg-primary);
+}
+#text-AirPods p{  
+    position: absolute;
+    top: 680px;
+    left: 275px;
+    color: var(--bg-primary);
+    font-weight:lighter;
+    font-size: 21px;
+}
+#text-AirPods a{  
+    position: absolute;
+    top: 710px;
+    left: 310px;
+    font-size: 20px;
+}
+#text-AirPods a + a{  
+    position: absolute;
+    top: 630px;
+    left: 385px;
+    font-size: 13px;
+}
+#Watch {
+    position: absolute;
+    font-size: 30px;
+    top: 550px;
+    left: 980px;
+    color: var(--title-primary-color);
+}
+#text-Watch p {
+    position: absolute;
+    top: 690px;
+    left: 910px;
+    color: var(--title-primary-color);
+}
+#text-Watch a {
+    position: absolute;
+    top: 620px;
+    left: 950px;
+    font-size: 13px;
+    
+}
+#text-Watch a + a {
+    position: absolute;
+    top: 620px;
+    left: 1030px;
+    font-size: 13px;
+}
